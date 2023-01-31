@@ -59,7 +59,7 @@ olarak devam ediyorum.</div>
    <a href="https://open.spotify.com/user/9vedqsjezbteu0vx5h4hbro85" target"blank_"><img src="https://shields.io/badge/Motive-111111.svg?&style=for-the-badge&logo=spotify"></a>
  <p align="center">
  <a href="https://discord.com/users/656885238823124993" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/795761865690316811?bg=111111">
+      <img src="https://lanyard-profile-readme.vercel.app/api/656885238823124993?bg=111111">
   
 ## Spotify Playing..
   
