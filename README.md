@@ -49,9 +49,6 @@ olarak devam ediyorum.</div>
 
 <br/>  
 
-## Github Stat's
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=motivecik&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Motive Github Stat's" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motivecik&layout=compact)](https://github.com/motivecik/motivecik)
-| ------------- | ------------- |
 
 ## Contact
 <p align="center">
@@ -61,7 +58,7 @@ olarak devam ediyorum.</div>
    <a href="https://instagram.com/m3rtcim" target"blank_"><img src="https://shields.io/badge/m3rtcim-111111.svg?&style=for-the-badge&logo=instagram"></a>
    <a href="https://open.spotify.com/user/9vedqsjezbteu0vx5h4hbro85" target"blank_"><img src="https://shields.io/badge/Motive-111111.svg?&style=for-the-badge&logo=spotify"></a>
  <p align="center">
- <a href="https://discord.com/users/795761865690316811" target="_blank">
+ <a href="https://discord.com/users/656885238823124993" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/795761865690316811?bg=111111">
   
 ## Spotify Playing..
