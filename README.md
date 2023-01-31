@@ -58,8 +58,8 @@ olarak devam ediyorum.</div>
    <a href="https://instagram.com/m3rtcim" target"blank_"><img src="https://shields.io/badge/m3rtcim-111111.svg?&style=for-the-badge&logo=instagram"></a>
    <a href="https://open.spotify.com/user/9vedqsjezbteu0vx5h4hbro85" target"blank_"><img src="https://shields.io/badge/Motive-111111.svg?&style=for-the-badge&logo=spotify"></a>
  <p align="center">
- <a href="https://discord.com/users/656885238823124993" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/656885238823124993?bg=111111">
+ <a href="https://discord.com/users/220712162270773248" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/220712162270773248?bg=111111">
   
 ## Spotify Playing..
   
